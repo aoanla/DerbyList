@@ -1,0 +1,3 @@
+This is a "pipe-separated list" format of data parsed from Derbylisting.com
+Geolocation has been performed on all of the entries, so that their locations can be plotted on maps etc.
+Please feedback issues upstream (to derbylisting.com ).
