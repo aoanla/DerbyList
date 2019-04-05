@@ -642,6 +642,7 @@ Lng|Lat|Name|Genders|Ages|Status|FB|Email|Website|Location
 114.14|22.34|Hong Kong Roller Derby|W|A|B|https://www.facebook.com/hongkongrollerderby|None|https://www.facebook.com/hongkongrollerderby|Lai Chi Kok,Kowloon City,Hong Kong
 19.04|47.50|Budapest Roller Derby|W|A|R|https://www.facebook.com/bprdp/|None|https://rollerderby-budapest.blogspot.ch/|Budapest,Budapest,Hungary
 -21.94|64.15|Roller Derby Iceland|W|A|B|http://is-is.facebook.com/RollerDerbyIceland|None|http://is-is.facebook.com/RollerDerbyIceland|Reykjavík,Capital,Iceland
+115.22|-8.65|Hot Lava Rollers|W|A|R|https://www.facebook.com/hotlavarollers/|None|https://www.facebook.com/hotlavarollers/|Denpasar,Bali,Indonesia
 -9.06|53.27|Galway City She Devils|W|A|B|https://www.facebook.com/galwaycityrollerderby|None|https://www.facebook.com/galwaycityrollerderby|Galway,Connaught,Ireland
 -6.11|53.20|East Coast Cyclones|W|A|B|https://www.facebook.com/eastcoastcyclones|eastcoastcyclones@gmail.com|http://www.eccrollerderby.com|Bray,Leinster,Ireland
 -6.26|53.35|Boomtown Rollers|W|A|B|https://www.facebook.com/BoomtownRollers|None|https://www.facebook.com/BoomtownRollers|Dublin,Leinster,Ireland
@@ -670,10 +671,11 @@ Lng|Lat|Name|Genders|Ages|Status|FB|Email|Website|Location
 10.25|43.88|Octopussy Roller Derby|W|A|R|https://www.facebook.com/versiliaderby|None|https://www.facebook.com/versiliaderby|Versilia,Tuscany,Italy
 11.88|45.41|Padova Roller Derby|W|A|B|https://www.facebook.com/PadovaRollerDerby|None|https://www.facebook.com/PadovaRollerDerby|Padova,Veneto,Italy
 11.54|45.55|Roller Derby Vicenza|W|A|B|https://www.facebook.com/rollerderbyvicenza|None|https://www.facebook.com/rollerderbyvicenza|Vicenza,Veneto,Italy
+135.77|35.01|Kyoto Roller Derby|W|A|P|https://www.facebook.com/kyotorollerderbyjapan/|kyotorollerderby@gmail.com|https://www.facebook.com/kyotorollerderbyjapan/|Kyoto,Kansai,Japan
 139.57|35.79|Men's Roller Derby Japan|M|A|B|https://www.facebook.com/mrdj.web|None|http://www.mrdj.biz/|Niiza,Kanto,Japan
 139.65|35.68|Tokyo Roller Girls|W|A,J|B|https://www.facebook.com/TokyoRollerGirls|None|https://www.facebook.com/TokyoRollerGirls|Tokyo,Kanto,Japan
 127.70|26.12|Devil Dog Derby Dames|W|A|B|https://www.facebook.com/DevilDogDerbyDames|None|https://www.facebook.com/DevilDogDerbyDames|Okinawa,Kyushu,Japan
-127.70|26.12|Kokeshi Roller Dolls|W|A|B|https://www.facebook.com/okinawarollerderby|None|https://www.facebook.com/kokeshirollerdolls|Okinawa,Kyushu,Japan
+127.70|26.12|Okinawa Roller Derby|W|A|B|https://www.facebook.com/okinawarollerderby|None|https://www.facebook.com/okinawarollerderby|Okinawa,Kyushu,Japan
 141.37|40.68|Misawa Roller Derby|W,M|A|B|https://www.facebook.com/killarollerderby|None|https://www.facebook.com/killarollerderby|Misawa,Tohoku,Japan
 139.77|35.68|Tokyo Derby Dolls|W|A|R|https://www.facebook.com/TDD.Coach.Danny|None|https://www.facebook.com/TDD.Coach.Danny|Tokyo,Tokyo,Japan
 127.08|37.15|Osan Humphreys Roller Derby|W|A|B|https://www.facebook.com/OHDerbyKorea/|ohderbyrecruiting@gmail.com|https://www.facebook.com/OHRollerDerbyFan|Osan,Gyeonggi-do,Korea, South
@@ -1008,15 +1010,15 @@ Lng|Lat|Name|Genders|Ages|Status|FB|Email|Website|Location
 -2.09|57.15|Granite City Roller Derby|W,M|A|B|https://www.facebook.com/GraniteCityRollerDerby|info@granitecityrollerderby.co.uk|http://www.granitecityrollerderby.co.uk|Aberdeen,Scotland,United Kingdom
 -3.61|55.07|Doonhame Roller Derby|W|A|B|https://www.facebook.com/pages/Doonhame-Derby-Dolls/161632670699789|doonhamederbydolls@gmail.com|https://www.facebook.com/pages/Doonhame-Derby-Dolls/161632670699789|Dumfries,Scotland,United Kingdom
 -2.97|56.46|Dundee Roller Derby|W|A|B|https://www.facebook.com/dundeerollerderby/|dundeerollerderby@gmail.com|http://dundeerollergirls.com/|Dundee,Scotland,United Kingdom
--3.19|55.95|Auld Reekie Roller Girls|W|A|B|https://www.facebook.com/auldreekierollergirls|None|http://arrg.co.uk/|Edinburgh,Scotland,United Kingdom
+-3.19|55.95|Auld Reekie Roller Derby|W|A|B|https://www.facebook.com/auldreekierollerderby|None|http://www.auldreekierollerderby.com/|Edinburgh,Scotland,United Kingdom
 -3.19|55.95|Lothian Roller Derby|W,M|A|B|https://www.facebook.com/lothianderby/|info@lothianderbydolls.com|http://lothianderbydolls.com/|Edinburgh,Scotland,United Kingdom
 -3.78|56.00|Bairn City Rollers|W,M|A|B|https://www.facebook.com/BairnCityRollers|None|https://www.facebook.com/BairnCityRollers|Falkirk,Scotland,United Kingdom
--3.78|56.00|Voodoo Roller Dollies|W|A|B|https://www.facebook.com/pages/Voodoo-Roller-Dollies/571771319549241|None|https://www.facebook.com/pages/Voodoo-Roller-Dollies/571771319549241|Falkirk,Scotland,United Kingdom
+-3.78|56.00|Voodoo Roller Derby|W|A|B|https://www.facebook.com/vrollerderby/|None|https://www.facebook.com/vrollerderby/|Falkirk,Scotland,United Kingdom
 -4.25|55.86|Glasgow Roller Derby|W|A|B|https://www.facebook.com/WeAreGRD|None|http://glasgowrollerderby.com/|Glasgow,Scotland,United Kingdom
 -4.25|55.86|Mean City Roller Derby|C|A|B|https://www.facebook.com/MeanCityRollerDerby|meancityrollerderby@gmail.com|https://www.facebook.com/MeanCityRollerDerby|Glasgow,Scotland,United Kingdom
 -4.22|57.48|Inverness City Roller Derby|W|A|B|https://www.facebook.com/InvernessCityRollerDerby|None|https://www.facebook.com/InvernessCityRollerDerby|Inverness,Scotland,United Kingdom
 -4.67|55.61|Ayrshire Roller Derby|W|A|B|https://www.facebook.com/AyrshireRollerDerbyOfficial/|ayrshirerollerderby@gmail.com|https://www.facebook.com/pages/Ayrshire-Roller-Derby-Official/618921518215712|Irvine,Scotland,United Kingdom
--3.52|55.90|New Town Roller Girls|W|A|B|https://www.facebook.com/NewTownRollerGirls|None|https://www.facebook.com/NewTownRollerGirls|Livingston,Scotland,United Kingdom
+-3.52|55.90|New Town Roller Derby|W|A|B|https://www.facebook.com/NewTownRollerDerby|None|https://www.facebook.com/NewTownRollerDerby|Livingston,Scotland,United Kingdom
 -3.32|57.65|Helgin Roller Derby|W|A|P|https://www.facebook.com/HelginRollerDerby|helginrollerderby@gmail.com|https://helginrollerderby.wordpress.com|Moray,Scotland,United Kingdom
 -2.96|58.98|Orkney ViQueens|W|A|P|https://www.facebook.com/OrkneyViqueens|orkneyviqueens@gmail.com|None|Orkney,Scotland,United Kingdom
 -3.43|56.39|Fair City Rollers|W|A|B|https://www.facebook.com/FairCityRollers|None|http://www.faircityrollers.com/|Perth,Scotland,United Kingdom
@@ -1910,3 +1912,4 @@ Lng|Lat|Name|Genders|Ages|Status|FB|Email|Website|Location
 -107.24|41.79|Rawlins Pen-Up Girlz|W|A|B|https://www.facebook.com/Rawlinspenupgirlz|None|https://www.facebook.com/Rawlinspenupgirlz|Rawlins,Wyoming,United States
 -109.20|41.59|Sweetwater County Roller Derby|W|A|B|https://www.facebook.com/pages/Bitter-Sweet-Bombshells-Sweetwater-County-Roller-Derby/146458862192918|None|https://www.facebook.com/pages/Bitter-Sweet-Bombshells-Sweetwater-County-Roller-Derby/146458862192918|Rock Springs,Wyoming,United States
 -56.16|-34.90|Pájaros Pintados Roller Derby|W|A|B|https://www.facebook.com/pajarospintados.derby/|None|https://www.facebook.com/paintedbirds.derby|Montevideo,Montevideo,Uruguay
+-56.16|-34.90|Tempestad Roller Derby|W|A|B|None|None|https://www.instagram.com/tempestadrd/|Montevideo,Montevideo,Uruguay
