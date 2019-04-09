@@ -802,7 +802,7 @@ Lng|Lat|Name|Genders|Ages|Status|FB|Email|Website|Location|Founded|Defunct|Rules
 21.01|52.23|Warsaw Hellcats Roller Girls|W|A|B|https://www.facebook.com/WarsawHellcatsRollerGirls|warsaw.hellcats@gmail.com|https://www.warsawhellcats.com|Warsaw,Mazowieckie,Poland|2013-12-09||WFTDA|Member of:
 21.01|52.23|Worst Warsaw Derby Team|W,C|A|B|https://www.facebook.com/WorstWarsawDerbyTeam|worstwarsawderbyteam@gmail.com|https://www.facebook.com/WorstWarsawDerbyTeam|Warsaw,Mazowieckie,Poland|2014-03-06||WFTDA|Member of:
 18.65|54.35|3City Piranhas Roller Derby|W|A|R|https://www.facebook.com/3citypiranhas||https://www.facebook.com/3citypiranhas|Gdańsk,Pomorskie,Poland|2014-02-10||WFTDA|Member of:
-18.65|54.35|Chrome Sirens Roller Derby|W|A|P|https://www.facebook.com/chromesirensrollerderby/|kontakt@chromesirens.pl|http://chromesirens.pl/|Gdańsk,Pomorskie,Poland|2018-10-02||WFTDA|Member of:
+18.65|54.35|Chrome Sirens Roller Derby|W|A|P|https://www.facebook.com/chromesirensrollerderby/|kontakt@chromesirens.pl|http://chromesirens.pl/|Gdańsk,Pomorskie,Poland|2018-10-02||WFTDA,ShortTrack|Member of:
 16.93|52.41|Roller Derby Poznan|W|A|B|https://www.facebook.com/BADTOTHEBONERollerDerbyPoznan||https://www.facebook.com/BADTOTHEBONERollerDerbyPoznan|Poznań,Wielkopolskie,Poland|||WFTDA|Member of:
 14.55|53.43|Headhunters Roller Derby|W|A|P|https://www.facebook.com/headhuntersrollerderbyszczecin|headhunters.szczecin@gmail.com|https://www.facebook.com/headhuntersrollerderbyszczecin|Szczecin,Zachodniopomorskie,Poland|2015-01-13||WFTDA|Member of:
 14.55|53.43|Sailor Roller Derby Girls|W|A|B|https://www.facebook.com/sailorrollerderbygirls||https://www.facebook.com/sailorrollerderbygirls|Szczecin,Zachodniopomorskie,Poland|||WFTDA|Member of:
@@ -811,8 +811,8 @@ Lng|Lat|Name|Genders|Ages|Status|FB|Email|Website|Location|Founded|Defunct|Rules
 -9.14|38.72|Lisboa Roller Derby Troopers|W|A|B|http://www.facebook.com/LisboaRollerDerbyTroopers||http://www.facebook.com/LisboaRollerDerbyTroopers|Lisbon,Lisboa,Portugal|||WFTDA|Member of:
 -9.14|38.72|Lisbon Grrrls Roller Derby|W|A|B|https://www.facebook.com/LisbonGrrrlsRollerDerby||https://www.facebook.com/LisbonGrrrlsRollerDerby|Lisbon,Lisboa,Portugal|||WFTDA|Member of:
 -9.17|38.68|Liberty Dolls - Almada Roller Derby|W|A|B|https://www.facebook.com/libertydolls/|libertydolls.almada@gmail.com||Almada,Lisbon,Portugal|2015-10-15||WFTDA|Member of:
-30.34|59.93|White Night Furies|W|A|B|https://www.facebook.com/rollerderbyRussia|petersburg.derby@gmail.com|http://vk.com/whitenightfuries|St. Petersburg,Severo-Zapadnyy,Russia|2013-05-22||WFTDA|Member of:
-37.62|55.76|Roller Derby Moscow|W|A|B|https://www.facebook.com/moscowrollerderby||http://vk.com/rollerderbymsk|Moscow,Tsentral'nyy,Russia|2013-11-28||WFTDA|Member of:
+30.34|59.93|St Petersburgh Roller Derby|W|A|B|https://www.facebook.com/rollerderbyRussia|petersburg.derby@gmail.com|http://vk.com/whitenightfuries|St. Petersburg,Severo-Zapadnyy,Russia|2013-05-22||WFTDA,ShortTrack|Member of:
+37.62|55.76|Rolleciraptor Derby Moscow|W|A|B|https://www.facebook.com/rolleciraptorderbymoscow/|moscowrollerderby@gmail.com|https://vk.com/rolleciraptorderbymoscow|Moscow,Tsentral'nyy,Russia|2013-11-28||WFTDA,ShortTrack|Member of:
 14.51|46.05|Roller Derby Ljubljana|W|A|B|https://www.facebook.com/RollerDerbyLjubljana||https://www.facebook.com/RollerDerbyLjubljana|Ljubljana,Osrednjeslovenska,Slovenia|||WFTDA|Member of:
 26.53|-33.31|Grahamstown Roller Derby|W|A|B|https://www.facebook.com/grahamstownrollerderby||https://www.facebook.com/grahamstownrollerderby|Grahamstown,Eastern Cape,South Africa|||WFTDA|Member of:
 28.05|-26.20|Golden City Rollers|W|A|B|https://www.facebook.com/goldencityrollers/|info@goldencityrollers.com|http://goldencityrollers.com|Johannesburg,Gauteng,South Africa|2010-09-10||WFTDA|Member of:WFTDA-M
@@ -889,6 +889,7 @@ Lng|Lat|Name|Genders|Ages|Status|FB|Email|Website|Location|Founded|Defunct|Rules
 8.54|47.38|Zürich City Rollergirlz|W|A|B|https://www.facebook.com/zurichcityrollergirlz|info@rollerderby.ch|http://rollerderby.ch/|Zürich,Zürich,Switzerland|2009-12-31||WFTDA|Member of:WFTDA-M
 100.57|13.73|Bangkok Roller Derby|W|A|B|https://www.facebook.com/BangkokRollerDerby||http://bkkderby.tumblr.com|Bangkok,Bangkok Metropolis,Thailand|2013-08-02||WFTDA|Member of:
 54.38|24.45|Abu Dhabi Roller Derby|W|A|B|https://www.facebook.com/ADRollerDerby/|adrdinfo@gmail.com|https://www.facebook.com/pages/Abu-Dhabi-Roller-Derby/153725484785780|Abu Dhabi,Abu Dhabi,United Arab Emirates|2012-11-15||WFTDA|Member of:
+54.38|24.45|UAE Roller Derby All-Stars|W|A|B|https://www.facebook.com/UAERollerDerby/|uaerollerderby@gmail.com|https://www.facebook.com/UAERollerDerby/|Abu Dhabi,Abu Dhabi,United Arab Emirates|2019-01-01||WFTDA,ShortTrack|Member of:
 55.27|25.20|Dubai Roller Derby|W|A|B|https://www.facebook.com/DubaiRollerDerby||https://www.facebook.com/DubaiRollerDerby|Dubai,Dubai,United Arab Emirates|||WFTDA,ShortTrack|Member of:
 -1.48|53.55|Barnsley Black Heart Rollers|W|A|B|https://www.facebook.com/Barnsley-Black-Heart-Rollers-272301206216656/|black_heart_rollers@ymail.com|https://www.facebook.com/pages/Barnsley-Black-Heart-Rollers/272301206216656|Barnsley,England,United Kingdom|2012-06-03||WFTDA|Member of:
 -4.06|51.08|Devon Clotted Screamers|W|A|B|https://www.facebook.com/DevonClottedScreamers||https://www.facebook.com/DevonClottedScreamers|Barnstaple,England,United Kingdom|||WFTDA|Member of:
@@ -1286,7 +1287,7 @@ Lng|Lat|Name|Genders|Ages|Status|FB|Email|Website|Location|Founded|Defunct|Rules
 -87.55|41.53|Illiana Derby Dames|W|A|B|https://www.facebook.com/IllianaDerbyDames||https://www.facebook.com/IllianaDerbyDames|Lynwood,Illinois,United States|||WFTDA|Member of:
 -90.67|40.46|Macomb Bombshells|W|A|B|https://www.facebook.com/rollerderbymacomb||https://www.facebook.com/rollerderbymacomb|Macomb,Illinois,United States|||WFTDA|Member of:
 -88.93|37.73|Southern Illinois Roller Girls|W|A|B|||http://www.soillrollergirls.com/|Marion,Illinois,United States|||WFTDA|Member of:WFTDA-M
--88.84|41.35|Illinois Valley Vixens Roller Derby|W|A|B|https://www.facebook.com/IVVRD||https://www.facebook.com/IVVRD|Ottawa,Illinois,United States|||WFTDA|Member of:
+-88.84|41.35|Illinois Valley Vixens Roller Derby|W|A|B|https://www.facebook.com/IVVRD||https://www.facebook.com/IVVRD|Ottawa,Illinois,United States|||WFTDA,ShortTrack|Member of:
 -88.84|41.35|Outcast Roller Derby|W|A|B|https://www.facebook.com/OutcastRollerDerby||https://www.facebook.com/OutcastRollerDerby|Ottawa,Illinois,United States|||WFTDA|Member of:
 -89.59|40.69|Peoria Prowlers Roller Derby|W|A|P|https://www.facebook.com/prowlersderby/|prowlersderby@gmail.com|http://www.prowlersderby.com|Peoria,Illinois,United States|2015-09-02||WFTDA|Member of:
 -89.59|40.69|Peoria Push Roller Derby|W|A|B|https://www.facebook.com/PeoriaPushRollerDerby/|webcommittee@peoriarollerderby.org|http://www.peoriarollerderby.org/|Peoria,Illinois,United States|2010-03-15||WFTDA|Member of:WFTDA-A
